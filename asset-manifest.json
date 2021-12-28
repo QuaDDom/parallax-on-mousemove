@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/parallax-on-mousemove/static/css/main.87393876.css",
-    "main.js": "/parallax-on-mousemove/static/js/main.ac0ce20c.js",
+    "main.js": "/parallax-on-mousemove/static/js/main.81790aa7.js",
     "static/js/787.c7d8da12.chunk.js": "/parallax-on-mousemove/static/js/787.c7d8da12.chunk.js",
     "index.html": "/parallax-on-mousemove/index.html",
     "main.87393876.css.map": "/parallax-on-mousemove/static/css/main.87393876.css.map",
-    "main.ac0ce20c.js.map": "/parallax-on-mousemove/static/js/main.ac0ce20c.js.map",
+    "main.81790aa7.js.map": "/parallax-on-mousemove/static/js/main.81790aa7.js.map",
     "787.c7d8da12.chunk.js.map": "/parallax-on-mousemove/static/js/787.c7d8da12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.87393876.css",
-    "static/js/main.ac0ce20c.js"
+    "static/js/main.81790aa7.js"
   ]
 }

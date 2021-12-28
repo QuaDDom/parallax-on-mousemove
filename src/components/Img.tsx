@@ -9,8 +9,8 @@ export default function Img({ src, title }: Props) {
     return (
         <Tilt
         className='tilt'
-        tiltReverse
         glareEnable
+        gyroscope={true}
         >
             <div className="img-container">
                 <img src={src} />

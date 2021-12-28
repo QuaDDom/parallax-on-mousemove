@@ -1,0 +1,29 @@
+
+.tilt{
+    transform-style: preserve-3d;
+    transform: perspective(1000px);
+}
+
+.img-container{
+    position: relative;
+    transform-style: preserve-3d;
+    width: 100%;
+    height: 100%;
+    img{
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+    }
+    .title{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        font-size: 34px;
+        color: #fff;
+        transform: translateZ(50px);
+        text-transform: uppercase;
+        letter-spacing: 1px;
+    }
+}
